@@ -1,0 +1,12 @@
+{
+  "Counterphobic (tree and roof-climber, as a kid)": 1,
+  "no": 0,
+  "Afraid of falling.": 0,
+  "-": -1,
+  "No": 0,
+  "No as a child - fear of falling from heights gradually got (a lot) worse as I aged": 1,
+  "Yes": 1,
+  "Counterphobic (skydiver)": 0,
+  "No as a child - fear of falling from heights gradually got (a lot) worse as i aged": 1,
+  "Counterphobic (Skydiver)": 1
+}

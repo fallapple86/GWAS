@@ -1,0 +1,1 @@
+{"None": 0, "Dont know": -1, "thrush": 1, "Hives": -1, "-": -1, "hives": -1, "Penicillin allergy": 1, "dont know": -1}

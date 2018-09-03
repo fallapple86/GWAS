@@ -1,0 +1,10 @@
+{
+  "Slight": 1,
+  "NEEDS PHOTCHROMIC LENS OR SUNGLASSES MOST OF THE TIME IN SUNLIGHT": 1,
+  "none noted": -1,
+  "No": 0,
+  "-": -1,
+  "Very sensitive to bright sunlight - eye pain": 1,
+  "Needs photchromic lens or sunglasses most of the time in sunlight": 1,
+  "None noted": -1
+}

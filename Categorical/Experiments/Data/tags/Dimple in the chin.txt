@@ -1,0 +1,1 @@
+{"No dimple in chin": 0, "-": -1, "Yes": 1, "No": 0}

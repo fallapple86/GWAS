@@ -1,0 +1,8 @@
+{
+  "No": 0,
+  "Only big toe, both feet.": 1,
+  "-": -1,
+  "Only one foot": 1,
+  "no": 0,
+  "Yes- both feet": 1
+}

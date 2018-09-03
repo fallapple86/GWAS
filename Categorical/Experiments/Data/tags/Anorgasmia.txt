@@ -1,0 +1,14 @@
+{
+  "NaN": -1,
+  "No": 0,
+  "-": -1,
+  "Male — difficult achieving orgasm while taking ssris": 1,
+  "Female - Not anorgasmic": 0,
+  "Male — Difficult Achieving Orgasm While Taking SSRIs": 1,
+  "difficulty achieving orgasm while taking SSRIs": 1,
+  "Sometimes - don't take ssris": 1,
+  "Very orgasmic": 1,
+  "N/a": -1,
+  "Difficulty achieving orgasm while taking ssris": 1,
+  "Female - not anorgasmic": 0
+}

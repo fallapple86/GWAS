@@ -1,0 +1,17 @@
+{
+  "Lactose-intolerant": 1,
+  "lactose-intolerant": 1,
+  "Genetically intolerant but drink raw milk and eat lots of dairy.": 0,
+  "False": 0,
+  " Allergic to all forms of dairy ": 1,
+  "Lactose tolerant": 0,
+  "lactose-tolerant": 0,
+  "-": -1,
+  "Genetically intolerant, partial intolerance.": 1,
+  "AA": -1,
+  "Lactose-tolerant": 0,
+  " allergic to all forms of dairy ": 1,
+  "Partially lactose intolerant - surfaces with a lot of dairy products in one day": 1,
+  "Genetically tolerant-extrememly lactose intolerant": 1,
+  "lactose tolerant": 0
+}

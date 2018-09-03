@@ -1,0 +1,18 @@
+{
+  "Sometimes": 1,
+  "rare": 0,
+  "No": 0,
+  "Former 20 year jogger": 1,
+  "Never": 0,
+  "-": -1,
+  "Regular": 1,
+  "sometimes": 1,
+  "regular": 1,
+  "no": 0,
+  "never": 0,
+  "former 20 year jogger": 1,
+  "Rare": 0,
+  "regular, sometimes, rare, never": 1,
+  "Regular, sometimes, rare, never": 1,
+  "I work hard and walk alot no need to jog": 0
+}

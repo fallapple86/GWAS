@@ -1,0 +1,11 @@
+{
+  "Yes, But Rarely": 1,
+  "No": 0,
+  "Yes, occasional": 1,
+  "yes, occasional": 1,
+  "-": -1,
+  "Yes, at least several times a week": 1,
+  "Only once": 1,
+  "Yes, Many Times Per Year": 1,
+  "Yes, many times per year": 1
+}

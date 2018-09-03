@@ -1,0 +1,1 @@
+{"None": 0, "at least 2-4": 1, "-": -1, "2": 1, "At least 2-4": 1, "1 on arm": 1, "Have some lumps under skin but dont know what they are": -1}

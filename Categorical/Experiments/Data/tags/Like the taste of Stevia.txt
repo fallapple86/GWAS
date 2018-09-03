@@ -1,0 +1,1 @@
+{"Never tasted it": -1, "somewhat": 1, "no": 0, "No": 0, "-": -1, "never tasted it": -1, "Somewhat": 1, "Yes": 1}

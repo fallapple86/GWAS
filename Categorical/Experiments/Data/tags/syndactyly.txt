@@ -1,0 +1,1 @@
+{"None": 0, "right hand only, between middle and ring finger": 1, "-": -1}

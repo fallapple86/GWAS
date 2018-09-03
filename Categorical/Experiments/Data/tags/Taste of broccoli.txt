@@ -1,0 +1,14 @@
+{
+  "OK": 1,
+  "Love it": 1,
+  "Fucking delicious": 1,
+  "-": -1,
+  "love it": 1,
+  "Like it": 1,
+  "OK - better cooked in stir fry": 1,
+  "fucking delicious": 1,
+  "Ok": 1,
+  "Dislike": 0,
+  "dislike": 0,
+  "Ok - better cooked in stir fry": 1
+}

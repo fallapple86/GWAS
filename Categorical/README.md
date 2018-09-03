@@ -12,7 +12,7 @@
 ## OpenSNP
 * openSNP is an open source website where users can upload their genetic test results and share their phenotypes. Users can access through this [Link](https://opensnp.org/).
 
-## Publications
+# Publications
 In this part, we published one conference paper and one journal paper. All the codes of experiments in the papers are included in this repository. 
 
 [1] Lu Zhang, Qiuping Pan, Xintao Wu, and Xinhua Shi. Building Bayesian Networks from GWAS statistics based on Independence of Causal Influence. In Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conference on (2016), IEEE.

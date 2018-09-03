@@ -1,0 +1,1 @@
+{"Yes, sing along with mustang sally, change  lyrics lead food vicki": 1, "no": 0, "Sometimes": 1, "-": -1, "no licence": -1, "No": 0, "No licence": -1, "Yes, sing along with Mustang sally, change  lyrics Lead food Vicki": 1, "Yeppers": 1, "Yes": 1, "yes": 1}

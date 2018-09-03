@@ -1,0 +1,9 @@
+{
+  "No": 0,
+  "-": -1,
+  "equal": 0,
+  "Equal": 0,
+  "Both ring fingers are longer than my index fingers, but my right ring finger is 1-2 mm longer than the left one.": 1,
+  "yes": 1,
+  "Yes": 1
+}

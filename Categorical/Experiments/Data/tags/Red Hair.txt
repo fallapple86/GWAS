@@ -1,0 +1,11 @@
+{
+  "Redhaired all over in youth, now red moustache and pubic hair": 1,
+  "No": 0,
+  "None, but a carrier": 0,
+  "Red Highlights": 1,
+  "-": -1,
+  "Have it and carry it": 1,
+  "Red Hair Carrier (Rr)": 1,
+  "Red hair carrier (rr)": 1,
+  "Red highlights": 1
+}

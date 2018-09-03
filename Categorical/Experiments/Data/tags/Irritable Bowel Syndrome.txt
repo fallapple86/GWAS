@@ -1,0 +1,13 @@
+{
+  "No if i cut out all wheat, gluten and sugar": 1,
+  "No": 0,
+  "Yes (severe)": 1,
+  "-": -1,
+  "No if I cut out all wheat, gluten and sugar": 1,
+  "constipation and bloating": 0,
+  "Yes (occasionally, under stress)": 1,
+  "Constipation and bloating": 0,
+  "Yes": 1,
+  "Yes (mild)": "NAN",
+  "No issues unless i consume wheat, gluten, dairy and sugar.": 1
+}

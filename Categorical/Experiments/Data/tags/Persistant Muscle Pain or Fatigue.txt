@@ -1,0 +1,1 @@
+{"None": 0, "-": -1, "Daily muscle pain and fatigue": 1, "none": 0, "Daily fatigue": 1}

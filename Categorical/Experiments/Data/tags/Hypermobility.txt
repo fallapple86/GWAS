@@ -1,0 +1,1 @@
+{"None": 0, "Yes- i am hypermobile in many joints": 1, "-": -1, "Yes- I am hypermobile in many joints": 1, "In hands only": 1, "5": -1, "Joints are unstable, painful": 1}

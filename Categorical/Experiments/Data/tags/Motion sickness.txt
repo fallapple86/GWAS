@@ -1,0 +1,1 @@
+{"Depends on what and where": -1, "different": -1, "No": 0, "Sometimes": 1, "-": -1, "Don't understand the question": -1, "Different": -1, "When I was younger": 1, "Only sea-sickness": 1, "Car only occasional ": 1, "Yes": 1, "When i was younger": 1, "only sea-sickness": 1}

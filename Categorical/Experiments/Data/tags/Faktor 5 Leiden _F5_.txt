@@ -1,0 +1,14 @@
+{
+  "Yes homozygous cc": 1,
+  "i don't know": -1,
+  "Yes heterozygot rs6025 ": 1,
+  "yes heterozygot rs6025 ": 1,
+  "no": 0,
+  "No": 0,
+  "-": -1,
+  "Yes Homozygous CC": 1,
+  "No - rs6025 gg": 0,
+  "No - rs6025 GG": 0,
+  "I don't know": -1,
+  "rs6025 A/G heterozygot": 1
+}

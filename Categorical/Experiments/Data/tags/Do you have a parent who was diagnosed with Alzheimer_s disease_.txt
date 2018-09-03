@@ -1,0 +1,11 @@
+{
+  "Nope they are dead": 0,
+  "No": 0,
+  "Yes, my mother": 1,
+  "-": -1,
+  "yes,  my Father": 1,
+  "Yes, grandparent": 1,
+  "No they both died": 0,
+  "Yes,  my father": 1,
+  "no they both died": 0
+}

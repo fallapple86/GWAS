@@ -1,0 +1,1 @@
+{"not diagnosed with SLE": 0, "Diagnosed with sle": 1, "Not diagnosed with sle": 0, "No": 0, "-": -1, "Rs9888739": -1, "rs9888739": -1, "Diagnosed with SLE": 1, "Dont know": -1}

@@ -1,0 +1,1 @@
+{"I have no symptomes": 0, "I have symptomes": 1, "-": -1, "No": 0}

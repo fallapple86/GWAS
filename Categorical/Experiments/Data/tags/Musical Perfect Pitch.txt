@@ -1,0 +1,1 @@
+{"I dont know": -1, "Yes": 1, "-": -1, "I have musical abilities": 1, "No": 0}

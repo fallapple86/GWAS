@@ -1,0 +1,12 @@
+{
+  "Tongue roller": 1,
+  "Tongue Folder": 0,
+  "Non ": 0,
+  "Non-roller": 0,
+  "-": -1,
+  "Non-Roller": 0,
+  "roller": 1,
+  "No, but my siblings (7) can roll": 0,
+  "Yes": 1,
+  "Roller": 1
+}

@@ -1,0 +1,17 @@
+{
+  "not diagnosed": -1,
+  "Not diagnosed": -1,
+  "Mthfr c677t": -1,
+  "False": 0,
+  "No": 0,
+  "rs1801260": -1,
+  "no": 0,
+  "-": -1,
+  "Undiagnosed, but probably true": -1,
+  "MTHFR C677T": -1,
+  "Rs1801260": -1,
+  "Yes": 1,
+  "True": 1,
+  "yes": 1,
+  "Diagnosed as not having but with some signs": 0
+}

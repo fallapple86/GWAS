@@ -1,0 +1,8 @@
+{
+  "Ambitious": 1,
+  "Not really": 0,
+  "-": -1,
+  "Somewhat": 1,
+  "The ambiguity of this question bothers me": -1,
+  "Yes": 1
+}

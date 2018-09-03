@@ -1,0 +1,8 @@
+{
+  "Neg": 0,
+  "-": -1,
+  "Have no idea": -1,
+  "Pos": 1,
+  "Unknown": -1,
+  "neg": 0
+}

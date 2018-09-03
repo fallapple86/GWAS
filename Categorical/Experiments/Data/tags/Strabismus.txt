@@ -1,0 +1,1 @@
+{"False": 0, "no": 0, "Slight Outward (L)": 1, "No": 0, "-": -1, "Slight outward (l)": 1, "True": 1}

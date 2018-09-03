@@ -1,0 +1,20 @@
+{
+  "Wheat intolerant": 1,
+  "Gluten & casein intolerant, soy tolerant": 1,
+  "gluten & casein intolerant, soy tolerant": 1,
+  "Possible celiac": 1,
+  "Lactose": -1,
+  "rs2300753 CC and no intolerance": 0,
+  "Rs2300753 cc and no intolerance": 0,
+  "-": -1,
+  "Celiac": 1,
+  "no intolerance": 0,
+  "Rs2300753 cc": -1,
+  "rs2300753 CC": -1,
+  " rs4988235 AG likely to be tolerant": 0,
+  "Gluten, casein, and soy intolerant": 1,
+  "Soy Intolerant": 1,
+  "possible celiac": 1,
+  "No intolerance": 0,
+  "Rs2300753 CC and no intolerance": 0
+}

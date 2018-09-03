@@ -1,0 +1,1 @@
+{"Mostly unattached": 0, "-": -1, "Fully attached": 1, "Free": 0}

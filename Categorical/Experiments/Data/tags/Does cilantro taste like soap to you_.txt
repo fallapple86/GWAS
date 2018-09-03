@@ -1,0 +1,1 @@
+{"it used to but I like it now": -1, "It used to but i like it now": -1, "No": 0, "-": -1, "Never tasted": -1, "Yes": 1}

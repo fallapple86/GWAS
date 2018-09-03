@@ -1,0 +1,1 @@
+{"Juvenile Rheumatoid Arthritis": 1, "No": 0, "-": -1, "rs6457617": -1, "Yes": 1, "yes": 1, "Rs6457617": -1}

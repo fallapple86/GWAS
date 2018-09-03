@@ -1,0 +1,13 @@
+{
+  "I am not bald": 0,
+  "Arial": -1,
+  "Front and rear": 1,
+  "mid-frontal": 1,
+  "Bald": 1,
+  "-": -1,
+  "Hey theres one of your bugs boldness =baldness ??? me im not bald at all": 0,
+  "Rear": 1,
+  "front and rear": 1,
+  "Mid-frontal": 1,
+  "rear": 1
+}

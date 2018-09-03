@@ -1,0 +1,19 @@
+{
+  "Big Toe Larger then Second or Index Toe": 0,
+  "Toe size in order big thru little": 0,
+  "index toe longer": 1,
+  "Right side index longer.": 1,
+  "No": 0,
+  "Index toe larger than big toe": 1,
+  "Index toe longer": 1,
+  "-": -1,
+  "Right side index longer, left sidebig toe longer": 1,
+  "Big toe larger then second or index toe": 0,
+  "Left index longer than big toe": 1,
+  "no": 0,
+  "Index Toe Larger Than Big Toe": 1,
+  "Index toe the same height as big toe": 0,
+  "right side index longer, left sidebig toe longer": 1,
+  "2nd toe longer": 1,
+  "Toe size in order Big thru little": 0
+}

@@ -1,0 +1,18 @@
+{
+  "Not in light but do have sneezing fits on occasion": -1,
+  "no sneezing": 0,
+  "Photic sneezer - but do not have snp": 1,
+  "Sometimes": 1,
+  "photic sneezer": 1,
+  "Photic sneezer with the snp": 1,
+  "Photic sneezer": 1,
+  "-": -1,
+  "I have the snp but no sneezing": 0,
+  "Instant sneezing using pepper on my plate": -1,
+  "CC": "NAN",
+  "No sneezing": 0,
+  "rs10427255": -1,
+  "photic sneezer - but do not have snp": 1,
+  "Rs10427255": -1,
+  "yes": 1
+}

@@ -1,0 +1,1 @@
+{"None": 0, "Maybe": 1, "-": -1, "none": 0, "hypermobility type": 1, "Hypermobility type": 1}

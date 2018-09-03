@@ -1,0 +1,12 @@
+{
+  "False": 0,
+  "Left eye only": 1,
+  "Right eye only": 1,
+  "-": -1,
+  "mild": 1,
+  "Had it as a child. Corrected it with glasses. Never had a recurrence": 1,
+  "Mild": 1,
+  "No astigmatism": 0,
+  "Had it as a child. corrected it with glasses. never had a recurrence": 1,
+  "True": 1
+}

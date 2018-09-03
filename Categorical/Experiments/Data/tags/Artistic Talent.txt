@@ -1,0 +1,8 @@
+{
+  "None": 0,
+  "-": -1,
+  "none": 0,
+  "Talented ": 1,
+  "very talented": 1,
+  "Very talented": 1
+}

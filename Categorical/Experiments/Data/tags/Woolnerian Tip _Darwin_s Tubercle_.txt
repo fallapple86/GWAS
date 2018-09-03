@@ -1,0 +1,13 @@
+{
+  "Both Ears": 1,
+  "False": 0,
+  "No": 0,
+  "Left ear": 1,
+  "no": 0,
+  "-": -1,
+  "Both ears": 1,
+  "Left Ear": 1,
+  "No tips": 0,
+  "right ear not sure about left": 1,
+  "Right ear not sure about left": 1
+}

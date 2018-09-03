@@ -1,0 +1,11 @@
+{
+  "Not color blind": 0,
+  "Not colour blind": 0,
+  "low light blue green colour blindness": 1,
+  "-": -1,
+  "Low light blue green colour blindness": 1,
+  "not color blind": 0,
+  "Red-green colour blind": 1,
+  "Mild red-green colour blind": 1,
+  "False": 0
+}

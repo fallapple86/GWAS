@@ -1,0 +1,1 @@
+{"None": 0, "-": -1, "Ovarian": 1, "ovarian": 1, "none": 0, "Yes": 1}

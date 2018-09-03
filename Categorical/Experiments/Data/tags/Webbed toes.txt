@@ -1,0 +1,11 @@
+{
+  "Second and third toes, left foot": 1,
+  "None": 0,
+  "No": 0,
+  "-": -1,
+  "non": 0,
+  "Not webbed": 0,
+  "second and third toes, right foot": 1,
+  "not webbed": 0,
+  "Second and third toes, both feet": 1
+}

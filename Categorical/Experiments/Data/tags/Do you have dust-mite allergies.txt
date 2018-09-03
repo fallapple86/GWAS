@@ -1,0 +1,10 @@
+{
+  "No- I do not have dust-mite allergies ": 0,
+  "No": 0,
+  "Yes  I have dust mite allergies": 1,
+  "Yes- I have dust mite allergies": 1,
+  "-": -1,
+  "Yes- i have dust mite allergies": 1,
+  "No- i do not have dust-mite allergies ": 0,
+  "Yes  i have dust mite allergies": 1
+}

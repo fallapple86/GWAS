@@ -1,0 +1,1 @@
+{"None": 0, "Genetic trait possibly connected to amount of melanin in skin(pigmentation)": -1, "-": -1, "Rs873549 TT": -1, "Few": -1, "Rs873549 tt": -1, "Yes": 1, "Rs873549": -1, "rs873549": -1}

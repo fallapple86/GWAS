@@ -1,0 +1,1 @@
+{"No. Clot too quickly.": 0, "No": 0, "-": -1, "Bad blood clotting ": 1, "Factor XI rs2289252 T/T ": -1, "bad blood clotting ": 1}

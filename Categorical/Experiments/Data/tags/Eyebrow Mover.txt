@@ -1,0 +1,1 @@
+{"Both": 1, "Left eyebrow can be raised only": 1, "left eyebrow can be raised only": 1, "No": 0, "right eyebrow only": 1, "-": -1, "Right eyebrow only": 1}

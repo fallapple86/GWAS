@@ -1,0 +1,1 @@
+{"yes": 1, "Do not have this condition": 0, "No": 0, "-": -1, "Second toe longer, but same length as toe in relaxed position (toes don't stay straight)": -1, "no": 0, "Yes": 1, "Second Toe Longer": -1, "Second toe longer": -1}

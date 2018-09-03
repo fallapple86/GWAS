@@ -1,0 +1,19 @@
+{
+  "Prediabetic": 0,
+  "Diabetes mellitus [t2d]": 1,
+  "Havent a clue": 0,
+  "No": 0,
+  "Gestational diabetic and now type ii": 1,
+  "Rs7903146": -1,
+  "normal": 0,
+  "-": -1,
+  "Gestational diabetes": -1,
+  "Gestational Diabetic and now Type II": 1,
+  "Normal": 0,
+  "prediabetic": -1,
+  "No. I have Type 1 diabetes": -1,
+  "no": 0,
+  "rs7903146": -1,
+  "Yes": 1,
+  "Diabetes Mellitus [T2D]": 1
+}

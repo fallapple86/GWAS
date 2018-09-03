@@ -1,0 +1,10 @@
+{
+  "NaN": -1,
+  "no": 0,
+  "No": 0,
+  "-": -1,
+  "N/a": -1,
+  "Yes": 1,
+  "Very little": -1,
+  "yuck. female": -1
+}

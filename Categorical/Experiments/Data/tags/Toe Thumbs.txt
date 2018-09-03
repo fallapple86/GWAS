@@ -1,0 +1,1 @@
+{"None": 0, "Normal Thumbs": 0, "-": -1, "none": 0, "Thumbs": 0, "Normal thumbs": 0}

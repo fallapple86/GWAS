@@ -1,0 +1,1 @@
+{"Had as a child, went away as an adult.": 1, "No": 0, "-": -1, "Don't know": -1, "Not personally; my daughter has it": 0, "Yes": 1}

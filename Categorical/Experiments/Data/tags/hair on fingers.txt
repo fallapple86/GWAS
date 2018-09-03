@@ -1,0 +1,1 @@
+{"No": 0, "Not visible but is there, slightly": 1, "Slight": 1, "-": -1, "slight": 1, "No hair from top of finger to second knuckle.": 0, "not visible but is there, slightly": 1, "no": 0, "Yes": 1, "yes": 1}

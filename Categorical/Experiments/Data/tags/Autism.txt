@@ -1,0 +1,16 @@
+{
+  "Asperger": -1,
+  "No": 0,
+  "High-functioning autism": 1,
+  "Asperger unofficial diagnosis": -1,
+  "-": -1,
+  "Very High Functioning Asperger's": 1,
+  "my snps say carry the genes and i think so myself": 1,
+  "High-Functioning Autism": 1,
+  "Unofficial High Functioning Autism": 1,
+  "Very high functioning asperger's": 1,
+  "My snps say carry the genes and i think so myself": 1,
+  "classical autism": 1,
+  "Aspie": -1,
+  "Regressive autism": 1
+}

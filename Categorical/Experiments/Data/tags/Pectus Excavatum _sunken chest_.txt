@@ -1,0 +1,1 @@
+{"-": -1, "Yes, not mild, but not extreme either": 1, "No": 0}

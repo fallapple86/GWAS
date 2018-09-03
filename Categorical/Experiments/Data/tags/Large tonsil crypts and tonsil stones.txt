@@ -1,0 +1,1 @@
+{"Yes": 1, "-": -1, "Do i look like a dr????": -1, "No": 0}

@@ -1,0 +1,11 @@
+{
+  "Gg - but... i can smell it": 1,
+  "Ag": -1,
+  "AG": -1,
+  "GG - But... I can smell it": 1,
+  "-": -1,
+  "Don't know": -1,
+  "Can't smell": 0,
+  "Yes": 1,
+  "don't know": -1
+}

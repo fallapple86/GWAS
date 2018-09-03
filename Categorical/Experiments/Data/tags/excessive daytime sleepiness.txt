@@ -1,0 +1,1 @@
+{"no": 0, "sleepy when not stimulated": 1, "No": 0, "-": -1, "I like a siesta": -1, "No, excessive daytime hyperactiveness": 0, "Diagnosed with narcolepsy": 1, "After seeing a sleep doctor, I can happily say No Longer": 0, "Yes": 1, "yes": 1, "Sleepy when not stimulated": 1}

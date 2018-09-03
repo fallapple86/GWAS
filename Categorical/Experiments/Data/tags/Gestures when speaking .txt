@@ -1,0 +1,1 @@
+{"Sometimes i notice": 1, "-": -1, "movement of the right hand ": 1, "Movement with both hands": 1, "Not": 0, "Movement of the right hand ": 1, "Only if I remember to gesture ": -1}

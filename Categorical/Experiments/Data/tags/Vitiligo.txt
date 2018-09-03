@@ -1,0 +1,11 @@
+{
+  "Mild.widespread \"negative freckles\"": 1,
+  "most of face and large symmetrical patches on limbs and trunk": 1,
+  "No": 0,
+  "-": -1,
+  "2 places on stomach": 1,
+  "Some on legs": 1,
+  "Mild, localised to sun exposed area of arms, nrgative freckles.": 1,
+  "Sides of face, around eyes, patches on forehead and around mouth, hands, and fully covering shins. Also have widespread \"negative freckles.\"": 1,
+  "Mind case of Vitiligo consisting of patches of white un-pigmented skin in the chin and groin area (started manifested around my 24 birthday and has progressed slowly)": 1
+}

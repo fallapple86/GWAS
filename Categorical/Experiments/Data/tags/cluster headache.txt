@@ -1,0 +1,9 @@
+{
+  "No": 0,
+  "Get both": 1,
+  "Hemiplegic migraines in clusters": 1,
+  "-": -1,
+  "Sinus headaches in clusters": 1,
+  "Yes": 1,
+  "hemiplegic migraines in clusters": 1
+}

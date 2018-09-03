@@ -1,0 +1,1 @@
+{"canines not impacted": 0, "Impacted canines requiring surgery": 1, "-": -1, "Impacted Canines requiring surgery": 1, "Impacted molars": 0, "Impacted Molars": 0, "Canines not impacted": 0}

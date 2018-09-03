@@ -1,0 +1,8 @@
+{
+  "Brown": 0,
+  "black skin": 1,
+  "Black skin": 1,
+  "No": 0,
+  "-": -1,
+  "Tan": 0
+}

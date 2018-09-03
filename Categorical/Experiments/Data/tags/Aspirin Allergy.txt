@@ -1,0 +1,10 @@
+{
+  "intolerant but not allergic": 0,
+  "sensitive to aspirin": 1,
+  "No": 0,
+  "Unknown": -1,
+  "-": -1,
+  "Intolerant but not allergic": 0,
+  "Sensitive to aspirin": 0,
+  "Yes": 1
+}

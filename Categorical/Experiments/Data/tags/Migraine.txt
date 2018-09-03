@@ -1,0 +1,17 @@
+{
+  "Vestibular Migraine, with and without aura": 1,
+  "Not sure it really is a migraine": -1,
+  "No": 0,
+  "complex migraine": 1,
+  "Yes, hemiplegic with aura": 1,
+  "no": 0,
+  "-": -1,
+  "Diagnosed as Teenager, Migraine free as adult": 1,
+  "Yes, always with aura": 1,
+  "ordinary and hemiplegia migraines, both without aura": 1,
+  "Vestibular migraine, with and without aura": 1,
+  "Yes, without aura": 1,
+  "yes, both with and without aura": 1,
+  "yes, hemiplegic with aura": 1,
+  "Yes, both with and without aura": 1
+}

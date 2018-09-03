@@ -1,0 +1,14 @@
+{
+  "No, loud noises especially high pitches hurt my ears": 0,
+  "No": 0,
+  "-": -1,
+  "> 85": -1,
+  "None/Dislikes ": 0,
+  "I like loud music but not excessivly.": 1,
+  "No, Auditory Processing Disorder": 0,
+  "No, auditory processing disorder": 0,
+  "Yes": 1,
+  "i like loud music but not excessivly.": 0,
+  "Strongly dislike loud music": 0,
+  "None/dislikes ": 0
+}

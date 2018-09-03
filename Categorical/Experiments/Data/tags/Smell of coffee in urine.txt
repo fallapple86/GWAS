@@ -1,0 +1,13 @@
+{
+  "Strongly": 1,
+  "strongly": 1,
+  "No": 0,
+  "Unknown (don't drink coffee)": -1,
+  "-": -1,
+  "Not sure if coffee  have smelled \"sweet\" smell periodically": -1,
+  "not sure if coffee  have smelled \"sweet\" smell periodically": -1,
+  "unknown (don't drink coffee)": -1,
+  "yes": 1,
+  "Yes": 1,
+  "If i drink to much yes kinda": 1
+}

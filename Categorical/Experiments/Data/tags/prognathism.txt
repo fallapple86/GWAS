@@ -1,0 +1,8 @@
+{
+  "No (normal jaw)": 0,
+  "no (normal jaw)": 0,
+  "Maxillary prognathism": 1,
+  "Maxillary Prognathism": 1,
+  "-": -1,
+  "Mandibular prognathism": 1
+}

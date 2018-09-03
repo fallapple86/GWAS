@@ -1,0 +1,1 @@
+{"Not diagnosed with otosclerosis": 0, "-": -1, "Diagnosed with otosclerosis": 1}
