@@ -1,0 +1,117 @@
+,Trait,Case,Control,Both groups meet requirement
+3,"Intolerance: gluten, casein, soy",25.0,102.0,Y
+4,Artistic Talent,10.0,7.0,N
+6,Diagnosed with Sleep Apnea?,16.0,35.0,Y
+7,Clotting disorder,2.0,8.0,N
+9,Do you like the taste of bananas?,82.0,14.0,Y
+10,Female with Ring Finger longer than Index Finger,13.0,4.0,N
+12,Boldness type,24.0,69.0,Y
+15,Dyscalculia,4.0,8.0,N
+19,Impacted Canines,7.0,73.0,N
+21,Keratoconus Disease,2.0,10.0,N
+22,Seborrhoeic Dermatitis,13.0,19.0,Y
+23,Hypomagnesemia,2.0,5.0,N
+24,Can You Spread Your Toes? ,80.0,10.0,Y
+29,Red Hair,11.0,11.0,Y
+30,rolled tongue,49.0,19.0,Y
+34,Mirror Touch Synesthesia,1.0,1.0,N
+38,prognathism,8.0,91.0,N
+42,Jogger,34.0,104.0,Y
+43,Skin dry,3.0,4.0,N
+47,Broad face,9.0,35.0,N
+49,Haemophilia/Hemophilia,2.0,44.0,N
+50,Do You Suffer From Agoraphobia?,13.0,13.0,Y
+52,Do you grind your teeth,73.0,35.0,Y
+59,Keloid,5.0,49.0,N
+68,Large tonsil crypts and tonsil stones,13.0,18.0,Y
+69,black skin,2.0,35.0,N
+72,Lisp,8.0,205.0,N
+74,Allergy to artificial grape flavoring,2.0,12.0,N
+75,Lipoma,4.0,20.0,N
+76,syndactyly,1.0,8.0,N
+80,Ear - darwin's tubercle,10.0,33.0,Y
+81,Earlobe:  Free or attached,22.0,81.0,Y
+91,congenital talipes equinovarus (CTEV),3.0,32.0,N
+93,double jointed thumbs,19.0,23.0,Y
+101,Otosclerosis,2.0,8.0,N
+104,CMV serostatus,5.0,9.0,N
+107,Musical Perfect Pitch,34.0,67.0,Y
+110,Preference for Loud Music,26.0,43.0,Y
+111,Fainting Upon Seeing Blood/Gore/Violence,9.0,63.0,N
+113,Like the taste of Stevia,60.0,43.0,Y
+115,Ambition,52.0,10.0,Y
+118,Eyebrow Mover,51.0,16.0,Y
+120,No headaches EVER,7.0,39.0,N
+130,Hashimoto's,16.0,54.0,Y
+133,ASMR,27.0,8.0,N
+139,Enjoy driving a car,125.0,42.0,Y
+141,Do you have a parent who was diagnosed with Alzheimer's disease?,9.0,93.0,N
+143,Irritable Bowel Syndrome,55.0,63.0,Y
+144,Colour Blindness,19.0,319.0,Y
+150,Ehlers-Danlos,7.0,5.0,N
+152,ring finger longer than index finger,142.0,96.0,Y
+153,Smell of coffee in urine,44.0,54.0,Y
+158,Autism,10.0,61.0,Y
+159,Gestures when speaking ,84.0,8.0,N
+160,Do you have dust-mite allergies,25.0,14.0,Y
+168,Do you like the taste of hops?,29.0,32.0,Y
+170,Raynaud's,21.0,14.0,Y
+171,Index Toe Longer than Big Toe,74.0,59.0,Y
+186,Pectus Excavatum (sunken chest),3.0,13.0,N
+188,Do You Have Lucid Dreams?,27.0,6.0,N
+192,Eye with Blue Halo ,18.0,48.0,Y
+193,Sweat eating spicy food,36.0,28.0,Y
+194,Prone to Cysts,19.0,12.0,Y
+196,Woolnerian Tip (Darwin's Tubercle),28.0,42.0,Y
+199,Vitiligo,13.0,97.0,Y
+200,Allergic/bad reaction to fish oil supplements,2.0,81.0,N
+204,erectil disfunction ,7.0,29.0,N
+205,Strabismus,10.0,71.0,Y
+208,Amblyopia,17.0,66.0,Y
+209,Aspirin Allergy,10.0,179.0,Y
+210,Are You The Advertising Phenotype?,1.0,24.0,N
+212,Morton's Toe,17.0,55.0,Y
+213,Motion sickness,75.0,33.0,Y
+218,Penicillin reaction,26.0,61.0,Y
+220,Nickel Dermatitis,14.0,26.0,Y
+224,Faktor 5 Leiden (F5),10.0,18.0,Y
+225,Have ME/CFS,17.0,27.0,Y
+226,Enjoy riding a motorbike,33.0,20.0,Y
+230,Persistant Muscle Pain or Fatigue,35.0,18.0,Y
+231,Lactose intolerance,81.0,235.0,Y
+233,Acrophobia,52.0,80.0,Y
+236,ADHD,49.0,72.0,Y
+238,Fat-pad knee syndrome,6.0,86.0,N
+239,Asparagus Metabolite Detection,40.0,10.0,Y
+241,Taste of broccoli,168.0,19.0,Y
+247,Erythromycin allergy,7.0,33.0,N
+252,Physician-diagnosed celiac/coeliac disease,2.0,76.0,N
+255,(male) penis releases pre-cum when sexually aroused.,20.0,9.0,N
+258,Photic Sneeze Reflex (Photoptarmis),45.0,59.0,Y
+260,cluster headache,39.0,67.0,Y
+265,Does cilantro taste like soap to you?,15.0,87.0,Y
+268,Have You Been Diagnosed With Brown's Syndrome (Tendon Sheath Syndrome)?,3.0,14.0,N
+271,Panic Disorder,32.0,81.0,Y
+277,Hypermobility,30.0,32.0,Y
+279,Photophobia,30.0,2.0,N
+282,Dimple in the chin,16.0,50.0,Y
+283,excessive daytime sleepiness,41.0,48.0,Y
+286,Type II Diabetes,9.0,103.0,N
+291,Ear wiggling,22.0,46.0,Y
+294,nosebleeds as a child,21.0,14.0,Y
+302,Migraine,62.0,56.0,Y
+303,Depression,43.0,26.0,Y
+305,Sneezing induced by sexual ideation or orgasm?,6.0,145.0,N
+306,Widow's Peak,56.0,93.0,Y
+312,SLE - Lupus,9.0,84.0,N
+313,Rheumatoid Arthritis,4.0,50.0,N
+315,Enjoy using the Internet,237.0,4.0,N
+316,Webbed toes,16.0,128.0,Y
+317,Dyslexia,21.0,104.0,Y
+320,Asthma,87.0,124.0,Y
+327,hair on ear,30.0,28.0,Y
+328,Ear Infections In Childhood,12.0,7.0,N
+334,hair on fingers,84.0,54.0,Y
+336,Tongue roller,302.0,77.0,Y
+337,Astigmatism,232.0,92.0,Y
+338,Anorgasmia,8.0,34.0,N

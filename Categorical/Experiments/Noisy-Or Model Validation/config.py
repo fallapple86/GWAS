@@ -1,5 +1,11 @@
 
+
 Folder_Attributes = {
+	"raw": "openSNP",
 	"tag": "tags",
-	"group": "groups"
+	"group": "groups",
+	"SNP": "allsnps",
+
 }
+
+
